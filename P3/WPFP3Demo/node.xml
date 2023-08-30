@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE note SYSTEM "D:\MyWork\WPFDEMO\P3\WPFP3Demo\CodeFirst001\note.dtd">
+<root>
+	<a isChecke="true">a1</a>
+	<aa>
+		<b>b1</b>
+	</aa>
+</root>
